@@ -20,8 +20,8 @@
   include './requete.php';
  ?>
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
+<!DOCTYPE html>
+<html lang="fr">
   <?php include("head.php"); ?>
   <script type="text/javascript" src="fonctions.js"></script>
   <body>

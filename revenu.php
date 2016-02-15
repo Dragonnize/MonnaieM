@@ -1,4 +1,4 @@
-<?php 
+²<?php 
 /*
  +-------------------------------------------------------------------------+
  | Monnaie M - http://merome.net/monnaiem                                                              |
@@ -10,8 +10,8 @@
   include '/var/www/monnaiem/requete.php';
  ?>
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
+<!DOCTYPE html>
+<html lang="fr">
   <?php include("head.php"); ?>
   <body>
 <?php 
