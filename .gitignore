@@ -1,1 +1,5 @@
 /nbproject/private/
+
+# Les ligne commençant par '#' sont des commentaires.
+# Ignorer le fichier config.php
+config.php
